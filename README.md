@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://unsplash.com/photos/ltpb_WinC3Y/download?force=true" alt="Cybersecurity Banner" width="100%"/>
+  <img src="https://placehold.co/1200x300/000000/FFFFFF/png?text=Cybersecurity+%26+Coding" alt="Cybersecurity Banner" width="100%"/>
 </p>
 
 ---
@@ -40,5 +40,5 @@ Eager to learn, adapt, and contribute to real-world security challenges.
 
 ## 📫 Contact
 
-- **Email:** [aditya.gummadi@gmail.com](mailto:aditya.gummadi@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/sai-aditya-gummadi-939a81307](https://www.linkedin.com/in/sai-aditya-gummadi-939a81307/)
+- [![Email](https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya.gummadi@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-aditya-gummadi-939a81307/)
