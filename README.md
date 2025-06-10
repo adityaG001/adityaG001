@@ -4,15 +4,25 @@
 
 ---
 
-# 💫 About Me:
-🛡️ Cybersecurity Enthusiast | Automation Architect | AI Explorer <br>
-Hello! I'm a passionate builder at the intersection of cybersecurity and artificial intelligence. I'm passionate in designing automated security solutions that are smart, scalable, and adaptive. My mission? To eliminate repetitive tasks in cybersecurity through agentic AI systems that detect, respond, and even reason like analysts.<br><br>🔭 I’m currently working on<br>An open-source Security Information and Event Management (SIEM) platform called O-SIEM, inspired by HELK, built with the OpenSearch stack, Docker, Filebeat, Syslog-ng, Winlogbeat, Zeek, and a dash of automation magic. My goal? To make threat detection and response accessible, efficient, and powerful for everyone—from students to SOC teams.<br><br>🤝 I’m looking to collaborate on<br>Cybersecurity tools, network defense mechanisms, agentic AI systems, and anything that involves turning command-line chaos into elegant, automated solutions. If you're building something to monitor, defend, or empower—count me in.<br><br>
+# About Me
+**🛡️ Cybersecurity Enthusiast | Automation Architect | AI Explorer**  
+Hello! I'm a passionate builder at the intersection of cybersecurity and artificial intelligence. I'm passionate in designing automated security solutions that are smart, scalable, and adaptive. My mission? To eliminate repetitive tasks in cybersecurity through agentic AI systems that detect, respond, and even reason like analysts.
 
+**🔭 I’m currently working on**  
+An open-source Security Information and Event Management (SIEM) platform called O-SIEM, inspired by HELK, built with the OpenSearch stack, Docker, Filebeat, Syslog-ng, Winlogbeat, Zeek, and a dash of automation magic. My goal? To make threat detection and response accessible, efficient, and powerful for everyone—from students to SOC teams.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sai-aditya-gummadi-939a81307/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aditya.gummadis@gmail.com) 
+**🤝 I’m looking to collaborate on**  
+Cybersecurity tools, network defense mechanisms, agentic AI systems, and anything that involves turning command-line chaos into elegant, automated solutions. If you're building something to monitor, defend, or empower—count me in.
 
-# 💻 Tech Stack
+---
+
+# Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-aditya-gummadi-939a81307/) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya.gummadis@gmail.com) 
+
+---
+
+# Tech Stack
 
 | 🧠 Languages | 🌐 Web / Backend |
 |-------------|------------------|
@@ -24,13 +34,15 @@ Hello! I'm a passionate builder at the intersection of cybersecurity and artific
 
 | 🔐 Cybersecurity | ⚙️ SIEM / Automation |
 |------------------|----------------------|
-| ![Metasploit](https://img.shields.io/badge/metasploit-%23000000.svg?style=for-the-badge&logo=metasploit&logoColor=white) ![Nmap](https://img.shields.io/badge/nmap-%2300599C.svg?style=for-the-badge&logo=nmap&logoColor=white) ![Wireshark](https://img.shields.io/badge/wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Kismet](https://img.shields.io/badge/kismet-2D2D2D?style=for-the-badge&logoColor=white) ![Aircrack-ng](https://img.shields.io/badge/aircrack--ng-%23000.svg?style=for-the-badge&logo=aircrack-ng&logoColor=yellow) ![Hashcat](https://img.shields.io/badge/hashcat-7B3F00?style=for-the-badge&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)  | ![OpenSearch](https://img.shields.io/badge/opensearch-%2300478F.svg?style=for-the-badge&logo=opensearch&logoColor=white)   |
+| ![Metasploit](https://img.shields.io/badge/metasploit-%23000000.svg?style=for-the-badge&logo=metasploit&logoColor=white) ![Nmap](https://img.shields.io/badge/nmap-%2300599C.svg?style=for-the-badge&logo=nmap&logoColor=white) ![Wireshark](https://img.shields.io/badge/wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Kismet](https://img.shields.io/badge/kismet-2D2D2D?style=for-the-badge&logoColor=white) ![Aircrack-ng](https://img.shields.io/badge/aircrack--ng-%23000.svg?style=for-the-badge&logo=aircrack-ng&logoColor=yellow) ![Hashcat](https://img.shields.io/badge/hashcat-7B3F00?style=for-the-badge&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) | ![OpenSearch](https://img.shields.io/badge/opensearch-%2300478F.svg?style=for-the-badge&logo=opensearch&logoColor=white) |
 
-
-
+---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=adityaG001&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=adityaG001&theme=dark&hide_border=false)<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityaG001&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="48%"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=adityaG001&theme=dark&hide_border=false" width="48%"/>
+</p>
+
 
 
