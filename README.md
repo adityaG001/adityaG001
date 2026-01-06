@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="C:\Users\adity\Downloads" alt="Cybersecurity Banner" width="100%"/>
+  <img src="./ChatGPT Image Jan 6, 2026, 11_19_27 AM.png" alt="Cybersecurity Banner" width="100%"/>
 </p>
 
 ---
