@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://placehold.co/1200x300/000000/FFFFFF/png?text=Cybersecurity+%26+Coding" alt="Cybersecurity Banner" width="100%"/>
+  <img src="C:\Users\adity\Downloads" alt="Cybersecurity Banner" width="100%"/>
 </p>
 
 ---
