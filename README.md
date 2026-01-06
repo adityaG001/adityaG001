@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./ChatGPT Image Jan 6, 2026, 11_19_27 AM.png" alt="Cybersecurity Banner" width="100%"/>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/aditya.gummadis.png" alt="Cybersecurity Banner" width="100%"/>
 </p>
 
 ---
