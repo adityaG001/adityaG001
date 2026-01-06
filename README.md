@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/aditya.gummadis.png" alt="Cybersecurity Banner" width="100%"/>
+  <img src="./ChatGPT Image Jan 6, 2026, 11_19_27 AM.png" alt="Cybersecurity Banner" width="100%"/>
 </p>
 
 ---
@@ -38,10 +38,9 @@ Cybersecurity tools, network defense mechanisms, agentic AI systems, and anythin
 
 ---
 
-# 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityaG001&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="48%"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=adityaG001&theme=dark&hide_border=false" width="48%"/>
+# 📊 TryHackMe Stats:
+<p align="left">
+ <img src="https://tryhackme-badges.s3.amazonaws.com/aditya.gummadis.png" alt="Your Image Badge" width="50%" />
 </p>
 
 
